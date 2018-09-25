@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const HomePage = ({history}) => {
   return (
@@ -38,7 +38,7 @@ const HomePage = ({history}) => {
         </a>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default HomePage
+export default HomePage;
